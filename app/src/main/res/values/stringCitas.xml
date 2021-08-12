@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="campoVacio">Sin datos</string>
+    <string name="cabeceraConexion">Datos de Conexión</string>
+    <string name="datosBD">Base de Datos</string>
+    <string name="reunion">Datos próxima reunión:</string>
+    <string name="citas">Citas almacenadas:</string>
+    <string name="actualizar">Sincronizar base de datos externa</string>
+    <string name="nuevo">Nueva cita</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha">Fecha</string>
+    <string name="descripcion">Descripción</string>
+    <color name="rojo">#FF0000</color>
+    <color name="verde">#CCFFEF</color>
+    <color name="azul">#6EB8DE</color>
+</resources>

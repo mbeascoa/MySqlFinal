@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cabecera">Conectar a MySQL</string>
+    <string name="servidor">Dirección Servidor</string>
+    <string name="puerto">Nº Puerto</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="conexion">Abrir Conexión a Base de Datos</string>
+    <string name="logo">Academia Android</string>
+    
+</resources>

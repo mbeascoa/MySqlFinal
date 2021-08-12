@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SincronizacionBD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_citas">Citas</string>
+    <string name="title_activity_lista_agenda">ListaAgenda</string>
+    <string name="title_activity_adaptador_lista">AdaptadorLista</string>
+
+</resources>
